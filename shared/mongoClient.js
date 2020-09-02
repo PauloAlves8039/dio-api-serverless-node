@@ -7,7 +7,7 @@
 
 const { MongoClient } = require('mongodb');
 const config = {
-    url: 'mongodb+srv://api:QoItCgKO7aArl0Ep@cluster0.mz6zi.azure.mongodb.net/api?retryWrites=true&w=majority',
+    url: 'mongodb+srv://api:****************@cluster0.mz6zi.azure.mongodb.net/api?retryWrites=true&w=majority',
 };
 
 module.exports = () => new Promise((resolve, reject) => {
