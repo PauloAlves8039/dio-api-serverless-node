@@ -17,6 +17,9 @@ Repositório de de uma API para uso de um CRUD de produtos utilizando Serverless
 
 ```git clone https://github.com/PauloAlves8039/dio-api-serverless-node.js.git```
 
+## :pencil: Licença
+
+Esse projeto está sob a licença [MIT](https://github.com/PauloAlves8039/dio-api-serverless-node.js/blob/master/LICENSE.md)
 
 ## Author
 
